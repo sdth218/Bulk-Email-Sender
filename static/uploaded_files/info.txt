@@ -1,0 +1,1 @@
+In this folder your excel file will upload while sending bulk email, but after that email all files will delete automatically.
